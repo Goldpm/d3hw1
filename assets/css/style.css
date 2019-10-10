@@ -37,6 +37,7 @@ nav {
 }
 p {
   display: inline;
+  color: #777777;
 }
 ul {
     list-style-type: none;
