@@ -4,7 +4,6 @@ html {
 header {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background-color: #ffffff;
-    /* background-color: royalblue; */
     border: #cccccc;
     width: 100%;
     position: relative;
@@ -23,7 +22,6 @@ header {
     margin: 0 auto;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     background-color: #ffffff;
-    /* background-color: red; */
     border: #dddddd;
 
 }
