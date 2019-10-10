@@ -56,6 +56,22 @@ nav {
   float: right;
   width: 300px;
 }
+.message {
+  height: 100%;
+  color: purple;
+}
+.button {
+  margin: 25px;
+  padding: 10px 30px;
+  color: white;
+  background-color: #4aaaa5;
+}
+b {
+  color: #777777;
+}
+.submithere {
+  padding: 25px;
+}
 .imp p {
   display: inline;
   color: #777777;
