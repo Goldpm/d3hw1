@@ -1,17 +1,29 @@
+html {
+  background-color: gray;
+}
 header {
     font-family: Georgia, Times, 'Times New Roman', serif;
-    /*background-color: #ffffff;*/
-    background-color: royalblue;
+    background-color: #ffffff;
+    /* background-color: royalblue; */
     border: #cccccc;
     width: 100%;
+    position: relative;
+}
+#name {
+  color: white;
+  background-color: teal;
+  width: 13%;
+}
+#about {
+  color: teal;
 }
 .content {
     width: 960px;
     background-color: rebeccapurple;
     margin: 0 auto;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-    /*background-color: #ffffff;*/
-    background-color: red;
+    background-color: #ffffff;
+    /* background-color: red; */
     border: #dddddd;
 
 }
@@ -39,11 +51,11 @@ ul {
   
   li a {
     padding: 8px;
-    background-color: #dddddd;
   }
 footer {
     border-top: 8px solid #4aaaa5;
     align-content: center;
-    background-color: seagreen;
+    background-color: #666666;
     text-align: center;
+    color: white;
 }
