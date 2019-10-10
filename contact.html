@@ -8,14 +8,20 @@
         <title>Portfolio Website</title>
     </head>
     <body>
+        <!-- header bar here -->
         <header>
-            <h1>Adam Lowe</h1>
+            <h1 class="name">Adam Lowe</h1>
+            <!-- navigation bar -->
             <nav>
-                <a href="index.html">Home</a>
-                <a href="contact.html">Contact</a>        
-                <a href="portfolio.html">Portfolio</a>        
+                <ul>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>        
+                    <li><a href="index.html">About</a></li>     
+                </ul>
             </nav>
+            <br class="clearfix">
         </header>
+        <!-- This div will encompass the unique content of this page -->
         <div class="content">
 
             <form>
@@ -24,9 +30,11 @@
                 Message: <input type="text" name="Message" value=""><br>
                 <input type="submit" value="Submit">
             </form>
-            <footer>
-                <p>Coptyright@9999</p>
-            </footer>
+        </div>
+           <!-- Of course the footer html is here! -->
+           <footer>
+            <p>Coptyright@9999</p>
+        </footer>
         </div>
     </body>
 </html>
