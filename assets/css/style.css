@@ -29,7 +29,9 @@ header {
     margin-bottom: 105px;
 
 }
-
+.text {
+  padding: 20px;
+}
 .line {
   background-color: #dddddd;
   margin: 2px;
