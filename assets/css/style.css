@@ -37,6 +37,9 @@ nav {
   color: #777777;
   line-height: 30px;
 }
+img {
+  float: left;
+}
 ul {
     list-style-type: none;
     margin: 0;
