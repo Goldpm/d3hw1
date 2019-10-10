@@ -17,6 +17,7 @@ header {
 }
 #about {
   color: teal;
+  padding: 20px;
 }
 .content {
     width: 960px;
@@ -27,8 +28,11 @@ header {
 
 }
 #line {
-  background-color: aqua;
+  background-color: #dddddd;
   margin: 2px;
+  width: 95%;
+  margin-left: 20px;
+  margin-top: -15px;
 }
 nav {
   position: relative;
@@ -42,6 +46,7 @@ nav {
 }
 img {
   float: left;
+  padding: 20px;
 }
 ul {
     list-style-type: none;
