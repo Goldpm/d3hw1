@@ -8,7 +8,30 @@ header {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background-color: #ffffff;
     border: #cccccc;
+    width: 100%;
 }
+.content {
+    width: 960px;
+    background-color: rebeccapurple;
+    margin: 0 auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
 footer {
     border-top: 8px solid #4aaaa5;
+    align-content: center;
 }
