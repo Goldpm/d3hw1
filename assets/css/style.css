@@ -12,6 +12,8 @@ header {
   color: white;
   background-color: teal;
   width: 13%;
+  margin-left: 280px;
+  padding: 30px;
 }
 #about {
   color: teal;
@@ -31,6 +33,7 @@ header {
 nav {
   position: relative;
   bottom: 30px;
+  padding-right: 225px;
 }
 #imp p {
   display: inline;
