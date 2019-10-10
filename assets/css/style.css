@@ -19,6 +19,12 @@ header {
   background-color: aqua;
   margin: 2px;
 }
+#imp {
+  
+}
+p {
+  display: inline;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -31,7 +37,6 @@ ul {
   }
   
   li a {
-    display: block;
     padding: 8px;
     background-color: #dddddd;
   }
