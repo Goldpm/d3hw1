@@ -15,6 +15,7 @@ header {
   width: 13%;
   margin-left: 280px;
   padding: 30px;
+  float: left;
 }
 .about {
   color: teal;
@@ -39,10 +40,15 @@ header {
   margin-left: 20px;
   margin-top: -15px;
 }
+.clearfix {
+  clear: both;
+}
 nav {
   position: relative;
-  bottom: 30px;
+  bottom: -60px;
   padding-right: 225px;
+  float: right;
+  width: 300px;
 }
 .imp p {
   display: inline;
