@@ -65,6 +65,9 @@ img {
   float: left;
   padding: 20px;
 }
+.input-space {
+  width: 100%;
+}
 .mypic {
    height: 170px;
    width: 200px;
