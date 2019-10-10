@@ -38,6 +38,7 @@ nav {
 #imp p {
   display: inline;
   color: #777777;
+  line-height: 30px;
 }
 ul {
     list-style-type: none;
