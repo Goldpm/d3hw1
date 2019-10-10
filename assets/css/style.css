@@ -9,14 +9,14 @@ header {
     position: relative;
     margin-top: -27px;
 }
-#name {
+.name {
   color: white;
   background-color: teal;
   width: 13%;
   margin-left: 280px;
   padding: 30px;
 }
-#about {
+.about {
   color: teal;
   padding: 20px;
 }
@@ -29,7 +29,8 @@ header {
     margin-bottom: 105px;
 
 }
-#line {
+
+.line {
   background-color: #dddddd;
   margin: 2px;
   width: 95%;
@@ -41,7 +42,7 @@ nav {
   bottom: 30px;
   padding-right: 225px;
 }
-#imp p {
+.imp p {
   display: inline;
   color: #777777;
   line-height: 30px;
