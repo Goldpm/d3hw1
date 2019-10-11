@@ -106,6 +106,7 @@ ul {
     padding: 8px;
   }
 footer {
+    font-size: 12px;
     position: fixed;
     width: 100%;
     bottom: 1px;
