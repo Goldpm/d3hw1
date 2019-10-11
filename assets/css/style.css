@@ -37,19 +37,19 @@ a {
 
 }
 .project1 {
-  background-image: none;
+  background-image: url(../images/240x170.png);
 }
 .project2 {
-  background-image: none;
+  background-image: url(../images/240x170.png);
 }
 .project3 {
-  background-image: none;
+  background-image: url(../images/240x170.png);
 }
 .project4 {
-  background-image: none;
+  background-image: url(../images/240x170.png);
 }
 .project5 {
-  background-image: none;
+  background-image: url(../images/240x170.png);
 }
 .text {
   padding: 20px;
@@ -107,7 +107,7 @@ td {
   float: left;
 }
 ul {
-    list-style-type: none;
+    list-style-type: ;
     margin: 0;
     padding: 0;
     overflow: hidden;
