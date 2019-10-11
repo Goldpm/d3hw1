@@ -88,6 +88,9 @@ img {
    height: 170px;
    width: 200px;
 }
+td {
+  float: left;
+}
 ul {
     list-style-type: none;
     margin: 0;
